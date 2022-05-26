@@ -4,7 +4,7 @@
 결과 : 입선상 (대회 8등)
 
 ## 요약
-![IMG_0007](https://user-images.githubusercontent.com/47520920/170413182-5ccd660a-5045-450f-b090-68d94ae3b155.JPG)
+![IMG_0007](https://user-images.githubusercontent.com/47520920/170413298-b1553ccf-142d-4f40-890f-590a1d66d163.JPG)
 
 ## 목차
 
