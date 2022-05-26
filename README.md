@@ -1,4 +1,10 @@
-# YZ-Investor-Profiling-Contest
+# Y&Z세대 투자자 프로파일링 시각화 경진대회
+
+주최 / 주관 : NH투자증권 / DACON
+결과 : 입선상 (대회 8등)
+
+## 요약
+![IMG_0007](https://user-images.githubusercontent.com/47520920/170413182-5ccd660a-5045-450f-b090-68d94ae3b155.JPG)
 
 ## 목차
 
